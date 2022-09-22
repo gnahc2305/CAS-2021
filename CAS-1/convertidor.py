@@ -1,5 +1,5 @@
 # Programa para convertir kg a lbs
-
+# May 24, 2021
 # se crea una función para convertir kilogramos a libras
 def convertidorkg():
     kgs = input("Kilogramo(s): ")
