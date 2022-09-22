@@ -1,0 +1,1 @@
+Programa para lanzar 2 dados (generar número aleatorio)
